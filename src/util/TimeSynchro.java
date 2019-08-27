@@ -71,4 +71,6 @@ public class TimeSynchro {
 		};
 		timer.schedule(timeSyncTask, 0, 1000);
 	}
+	
+	
 }
